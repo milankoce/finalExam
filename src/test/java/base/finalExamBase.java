@@ -23,7 +23,7 @@ public class finalExamBase {
 
     @After
     public void tearDown() {
-      //  driver.quit();
-     //   driver.close();
+      
+         driver.close();
     }
 }
