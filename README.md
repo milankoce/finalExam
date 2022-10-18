@@ -6,7 +6,7 @@ Final Exam project in Automation testing course - Obuke i Kursevi Beograd
 - The built automation tool is Maven. 
 - The assertion tool is JUnit. 
 - The design pattern in the framework is the Page Object Model design pattern.
-- Testing website is "http://automationpractice.com/index.php"
+- Testing website is "http://automationpractice.com"
 
 Task: 
 
