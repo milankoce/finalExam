@@ -73,7 +73,7 @@ public class automationPracticeTest extends finalExamBase {
     public void enterEmailText() {
         AutomationPracticePage.setSignInButton();
         Assert.assertTrue(AutomationPracticeAuthenticationPage.emailEnterTextDisplayed());
-        Assert.assertEquals("Please enter your email address to create an account.",AutomationPracticeAuthenticationPage.createAnAccountTextText());
+        Assert.assertEquals("CREATE AN ACCOUNT",AutomationPracticeAuthenticationPage.createAnAccountTextText());
 
     }
 

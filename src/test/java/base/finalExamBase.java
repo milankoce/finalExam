@@ -18,7 +18,7 @@ public class finalExamBase {
         driver = new ChromeDriver();
         wdwait = new WebDriverWait(driver, 30);
         driver.manage().window().maximize();
-        driver.get("https://maltapark.com/");
+        driver.get("http://automationpractice.com/index.php");
     }
 
     @After
