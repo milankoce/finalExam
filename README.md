@@ -1,4 +1,4 @@
-# Final Exam project in Automation testing course - Obuke i Kursevi Beograd
+Final Exam project in Automation testing course - Obuke i Kursevi Beograd
 
 
 - Main programming language is Java.
